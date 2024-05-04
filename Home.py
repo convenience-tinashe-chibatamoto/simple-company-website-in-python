@@ -5,7 +5,7 @@ import pandas
 st.set_page_config(layout="wide")
 
 # Add a header and some other text
-st.header("The Best Company")
+st.header("Initech Software Company")
 st.write("""
 Initech is a leading software development company specializing in the design, development, and delivery of innovative technology solutions. With a team of experienced professionals and a passion for innovation, we help businesses of all sizes navigate the complexities of the digital landscape and achieve their goals efficiently and effectively.
 
